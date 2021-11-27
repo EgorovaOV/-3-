@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\bin\Debug\net6.0\Лекция 3.exe
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\bin\Debug\net6.0\Лекция 3.deps.json
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\bin\Debug\net6.0\Лекция 3.runtimeconfig.json
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\bin\Debug\net6.0\Лекция 3.dll
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\bin\Debug\net6.0\ref\Лекция 3.dll
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\bin\Debug\net6.0\Лекция 3.pdb
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\obj\Debug\net6.0\Лекция 3.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\obj\Debug\net6.0\Лекция 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\obj\Debug\net6.0\Лекция 3.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\obj\Debug\net6.0\Лекция 3.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\obj\Debug\net6.0\Лекция 3.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\obj\Debug\net6.0\Лекция 3.dll
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\obj\Debug\net6.0\ref\Лекция 3.dll
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\obj\Debug\net6.0\Лекция 3.pdb
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Языки программир\Лекция 3\obj\Debug\net6.0\Лекция 3.genruntimeconfig.cache
